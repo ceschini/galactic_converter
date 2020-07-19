@@ -26,3 +26,21 @@ linha, um exemplo do que deve acontecer com uma anotação inválida.
 ![Exemplo de entrada](/imgs/exemplo_entrada.png)
 #### Saída
 ![Exemplo de saida](/imgs/exemplo_saida.png)
+
+### Requerimentos do Sistema
+Como o programa é um .NET Core Console Application, talvez seja necessário instalá-lo, para isso basta clicar [aqui](https://microsoft.com/net/core), escolher seu sistema operacional, baixar e instalar (Next, Next, Finish). Para confirmar o sucesso da instalação, basta entrar no terminal e digitar <code>dotnet --info</code> (Talvez seja necessário reiniciar o sistema). Se o .NET Core SDK foi instalado corretamente, será exibido informações sobre o mesmo.
+
+Qualquer dificuldade, favor enviar e-mail para ceschini@protonmail.com
+
+### Executando
+Para executar o programa, basta abrir o terminal, navegar até a pasta do programa e digitar <code>dotnet run</code>.
+
+### Modificando Entradas
+O programa está lendo o arquivo entry.txt presente no diretório raiz. Para testar outros valores de entrada, basta modificar as linhas deste arquivo, salvá-lo e rodar o programa novamente. Lembrando que a sintaxe deve ser mantida, as palavras *"representa", "valem", "quanto vale" e "quantos créditos são"* definem como o programa irá obter as informações e que perguntas responder.
+
+#### Disclaimer
+O exemplo de entrada acima está com um espaço antes do **?**, infelizmente ao transcrever para um arquivo .txt, acabei colocando o **?** junto, o que mudou totalmente minha lógica e acabou fazendo as entradas padrões acima não funcionarem 100%. Por isso, por favor manter essa nomenclatura ao editar as entradas.
+
+**Como está no exemplo:** quanto vale squid leij snob snob ?
+
+**Como está no entry.txt:** quanto vale squid leij snob snob?
