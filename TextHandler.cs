@@ -165,7 +165,7 @@ namespace desafio_dell {
                                 }
                             }
                             int credits = cc.CalculateCredits(qtd, mineralAmount, mineralCredit);
-                            System.Console.WriteLine(question + mineral + " custa " + credits + " créditos");
+                            System.Console.WriteLine(question + mineral + " custa " + credits + " creditos");
                         }
                     }
                 }

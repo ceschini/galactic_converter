@@ -1,12 +1,19 @@
-snob representa I
-krok representa V
-squid representa X
-leij representa L
-snob snob Silver valem 34 créditos
-snob krok Gold valem 57800 créditos
-squid squid Iron valem 3910 créditos
-quanto vale squid leij snob snob?
-quantos créditos são snob krok Silver?
-quantos créditos são snob krok Gold?
-quantos créditos são snob krok Iron?
+bulba representa I
+squirtl representa V
+charm representa X
+weedle representa L
+arbok representa C
+kakuna representa D
+mew representa M
+bulba bulba Silver valem 34 créditos
+bulba squirtl Gold valem 57800 créditos
+mew Iron valem 3910 créditos
+arbok kakuna Diamond valem 12345 créditos
+quanto vale charm weedle bulba bulba?
+quanto vale arbok kakuna?
+quanto vale chaka waka waka?
+quantos créditos são bulba squirtl Silver?
+quantos créditos são bulba squirtl Gold?
+quantos créditos são mew mew Iron?
+quantos créditos são bulba Diamond?
 quanto vale wood could woodchuck mood?
