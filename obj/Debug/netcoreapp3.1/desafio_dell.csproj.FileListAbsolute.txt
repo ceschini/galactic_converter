@@ -1,0 +1,13 @@
+/home/deck/Documents/desafio_dell/bin/Debug/netcoreapp3.1/desafio_dell
+/home/deck/Documents/desafio_dell/bin/Debug/netcoreapp3.1/desafio_dell.deps.json
+/home/deck/Documents/desafio_dell/bin/Debug/netcoreapp3.1/desafio_dell.runtimeconfig.json
+/home/deck/Documents/desafio_dell/bin/Debug/netcoreapp3.1/desafio_dell.runtimeconfig.dev.json
+/home/deck/Documents/desafio_dell/bin/Debug/netcoreapp3.1/desafio_dell.dll
+/home/deck/Documents/desafio_dell/bin/Debug/netcoreapp3.1/desafio_dell.pdb
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.csprojAssemblyReference.cache
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.AssemblyInfoInputs.cache
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.AssemblyInfo.cs
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.csproj.CoreCompileInputs.cache
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.dll
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.pdb
+/home/deck/Documents/desafio_dell/obj/Debug/netcoreapp3.1/desafio_dell.genruntimeconfig.cache
