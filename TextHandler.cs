@@ -153,7 +153,7 @@ namespace desafio_dell {
                         int mineralCredit = 0;
                         CreditComputer cc = new CreditComputer();
                         Regex.Replace(mineral, @"\s+", "");
-                        if (mineral == string.Empty) {
+                        if (mineral == string.Empty || qtdString == string.Empty) {
                             System.Console.WriteLine("Nem ideia do que isto significa!");
                         } else {
                             foreach (var m in minerals)
